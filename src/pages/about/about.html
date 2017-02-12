@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      QR code
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <div>
+    <qr-code [value]="information" [size]="150"></qr-code>
+  </div>
+  <ion-input type="text" [(ngModel)]="information"></ion-input>
+
+</ion-content>

@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 import { NavController, Platform, AlertController } from 'ionic-angular';
-
+import { QRCodeModule } from 'angular2-qrcode';
 declare var cordova: any;
 @Component({
   selector: 'page-home',
