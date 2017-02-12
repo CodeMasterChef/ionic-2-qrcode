@@ -1,5 +1,8 @@
 # ionic-2-qrcode
-This is demo for QRcode scanner feature with ionic 2.
+This is demo for QR code scanner  and QR code gernerator with ionic 2.
+![alt text](https://image.ibb.co/guwgka/screen_shot.png "Logo Title Text 1")
+
+
 # Install
 - Clone project and install packages with command: `npm install`
 
@@ -9,7 +12,7 @@ This is demo for QRcode scanner feature with ionic 2.
 
 `cordova platform add ios`
 
-- Install plugin: [phonegap-plugin-barcodescanner](https://github.com/phonegap/phonegap-plugin-barcodescanner): 
+- Install QR code scanner plugin: [phonegap-plugin-barcodescanner](https://github.com/phonegap/phonegap-plugin-barcodescanner): 
 
 `cordova plugin add phonegap-plugin-barcodescanner`
 
@@ -21,4 +24,6 @@ This is demo for QRcode scanner feature with ionic 2.
 
 # How it work
 
-It use [phonegap-plugin-barcodescanner](https://github.com/phonegap/phonegap-plugin-barcodescanner).
+- QR code scanner use plugin:  [phonegap-plugin-barcodescanner](https://github.com/phonegap/phonegap-plugin-barcodescanner).
+
+- QR code gernerator use library: [angular2-qrcode](https://github.com/SuperiorJT/angular2-qrcode)
