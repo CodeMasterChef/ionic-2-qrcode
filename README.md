@@ -1,6 +1,6 @@
 # ionic-2-qrcode
 This is demo for QR code scanner  and QR code gernerator with ionic 2.
-![alt text](https://image.ibb.co/guwgka/screen_shot.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/gitvani/ionic-2-qrcode/master/screen-shot.png "Ionic 2 QR code")
 
 
 # Install
